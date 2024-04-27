@@ -23,6 +23,8 @@ public class C implements D {
     public Object rr() {
         return null;
     }
+<<<<<<< HEAD
+=======
 
     public double ad() {
         return 11;
@@ -35,6 +37,7 @@ public class C implements D {
     public int af() {
         return -1;
     }
+<<<<<<< HEAD
 
     public String kk() {
         return "No";
@@ -43,4 +46,7 @@ public class C implements D {
     public long dd() {
         return 100500;
     }
+=======
+>>>>>>> blueupbranch
+>>>>>>> bluedownbranch
 }
