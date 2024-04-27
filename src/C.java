@@ -31,4 +31,8 @@ public class C implements D {
     public int cc() {
         return 42;
     }
+
+    public int af() {
+        return -1;
+    }
 }
