@@ -23,4 +23,8 @@ public class C implements D {
     public Object rr() {
         return null;
     }
+
+    public double ad() {
+        return 11;
+    }
 }
