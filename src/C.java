@@ -27,4 +27,8 @@ public class C implements D {
     public double ad() {
         return 11;
     }
+
+    public int cc() {
+        return 42;
+    }
 }
