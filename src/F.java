@@ -11,4 +11,8 @@ public class F extends C {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public double ad() {
+        return java.lang.Math.sqrt(13);
+    }
 }
