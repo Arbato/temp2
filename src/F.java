@@ -31,4 +31,8 @@ public class F extends C {
     public Object pp() {
         return this;
     }
+
+    public long ac() {
+        return 333;
+    }
 }

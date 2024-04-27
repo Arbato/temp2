@@ -39,4 +39,8 @@ public class C implements D {
     public String kk() {
         return "No";
     }
+
+    public long dd() {
+        return 100500;
+    }
 }
