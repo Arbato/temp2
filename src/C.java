@@ -23,4 +23,19 @@ public class C implements D {
     public Object rr() {
         return null;
     }
+<<<<<<< HEAD
+=======
+
+    public double ad() {
+        return 11;
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public int af() {
+        return -1;
+    }
+>>>>>>> blueupbranch
 }

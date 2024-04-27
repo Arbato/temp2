@@ -15,4 +15,19 @@ public class F extends C {
     public double ad() {
         return java.lang.Math.sqrt(13);
     }
+<<<<<<< HEAD
+=======
+
+    public void ab() {
+        return;
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+>>>>>>> blueupbranch
 }
