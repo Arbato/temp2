@@ -19,12 +19,4 @@ public class C implements D {
     public int ae() {
         return 9;
     }
-
-    public Object rr() {
-        return null;
-    }
-
-    public double ad() {
-        return 11;
-    }
 }
