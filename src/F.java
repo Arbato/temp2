@@ -27,4 +27,8 @@ public class F extends C {
     public java.util.List<String> jj() {
         return new java.util.ArrayList<String>();
     }
+
+    public Object pp() {
+        return this;
+    }
 }
